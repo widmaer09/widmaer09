@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working on ...
+📫 How to reach me: ..
+🤔 I’m looking for help with ...
+ ⚡ Fun fact: ...
+
 <!--
 **widmaer09/widmaer09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
